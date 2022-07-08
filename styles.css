@@ -11,12 +11,13 @@ body{
     align-items: center;
     margin: 0;
     height: 100vh;
-    padding: 15px 0;
     overflow: hidden;
+    border: solid red 2px;
 }
 .container{
     display: flex;
-    width: 90vh;
+    width: 100%;
+    border: solid black 2px;
 }
 
 .panel{
