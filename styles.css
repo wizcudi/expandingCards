@@ -12,12 +12,10 @@ body{
     margin: 0;
     height: 100vh;
     overflow: hidden;
-    border: solid red 2px;
 }
 .container{
     display: flex;
     width: 100%;
-    border: solid black 2px;
 }
 
 .panel{
